@@ -1,6 +1,6 @@
 # Hi, I'm Anurag Kumar 👋
 
-**Frontend Developer (React.js)** | Noida, India | BCA 2026
+**Frontend Developer (React.js, TypeScript)** | Noida, India | BCA 2026
 
 I build clean, responsive web apps with React and JavaScript. Currently looking for my first full-time frontend role.
 
